@@ -2,9 +2,7 @@
 
 This project was made by following a tutorial. However, The turtorial used some outdated dependencies and it used react componets. I used React Hooks and had learn how to use more updated dependencies on my own. 
 
-This project is also a full stack project weere I learned to build a server and use an SQL database. So, while the idea is not mine, I had to figure a few things on my own and got a good taste of Full Stack development which was the main goal. 
-
-There were also some deployment and hiding API_Keys that I had to figure out on my own. 
+This project is also a full stack project were I learned to build a server and use an SQL database. So, while the idea is not mine, I had to figure a few things on my own and got a good taste of Full Stack development which was the main goal. There were also some deployment and hiding API_Keys that I had to figure out on my own. 
 
 The tutorial was from here: https://zerotomastery.io/courses/coding-bootcamp/
 
